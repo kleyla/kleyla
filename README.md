@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Karen 👋
+
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/femalecodertocat.png" />
+
+:computer: Full-Stack Developer
+:bolivia: From Bolivia
+
+- 🔭 I’m currently looking for Frontend or FullStack Development opportunities!
+- 🌱 I’m currently learning about testing
+- 👯 I’m looking to collaborate on open source projects
+- 😄 Pronouns: She/her
 
 <!--
 **kleyla/kleyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
