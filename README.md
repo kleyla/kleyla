@@ -10,6 +10,10 @@
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: She/her
 
+<p>
+  <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=kleyla&show_icons=true&count_private=true&theme=synthwave" width="400"></a>
+</p>
+
 <!--
 **kleyla/kleyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
